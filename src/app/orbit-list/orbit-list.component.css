@@ -1,30 +1,3 @@
-
-
-button {
-    margin-left: 10px;
-    color: #fff;
-    background-color: #009b25;
-    border-radius: 4px;
-    padding: 2px 5px;
-    font-size: 18px;
-    cursor: pointer;
-}
-
-.counts {
-    background: #34495E;
-    color: #fff;
-    border-radius: 5px;
-    width: 225px;
-}
-
-.counts div {
-    padding: 8px;
-}
-
-.counts span {
-    float: right;
-}
- orbit-list-component.css
 .sortable {
     cursor: pointer;
     color: #dd5;
@@ -52,4 +25,18 @@ th, td {
     text-align: left;
     margin: 5px 10px;
     padding: 6px;
+}
+.counts {
+    background: #34495E;
+    color: #fff;
+    border-radius: 5px;
+    width: 225px;
+}
+
+.counts div {
+    padding: 8px;
+}
+
+.counts span {
+    float: right;
 }
